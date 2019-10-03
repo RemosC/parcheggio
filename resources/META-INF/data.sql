@@ -1,0 +1,1 @@
+-- INSERT INTO prodotti (id, cd_prodotto,colore,descrizione,prezzo_unitario,ump) VALUES (2, "rx-ra", "bianco", "remo", 10.0, "KG");
